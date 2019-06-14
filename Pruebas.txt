@@ -4,3 +4,4 @@ Nombre: Anelisse Gil Rollano
 Codigo : 41608
 Fecha: Cochabamba, 14 de Junio de 2019
 Temas: Diseño de Interfases y Commandos Git 
+Docente: MARCELO BERNARDO LÓPEZ DE LA ROSA 
