@@ -2,5 +2,5 @@ Examen Segundo Parcial
 Materia: Proyecto de Software 
 Nombre: Anelisse Gil Rollano
 Codigo : 41608
-Fecha 14/06/2019
+Fecha: Cochabamba, 14 de Junio de 2019
 Temas: Diseño de Interfases y Commandos Git 
